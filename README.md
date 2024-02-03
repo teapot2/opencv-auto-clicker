@@ -25,7 +25,7 @@ This Python script utilizes the **SIFT (Scale-Invariant Feature Transform)** alg
 2. Run the script with optional command-line arguments:
 
     ```bash
-    python script.py -i path/to/target/image.png -t 10 -c left -s 0.1
+    python main.py -i path/to/target/image.png -t 10 -c left -s 0.1
     ```
 
     - `-i` or `--image`: Path to the target image.
